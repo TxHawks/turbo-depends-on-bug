@@ -1,0 +1,6 @@
+[35m@acme/c:foo: [0mcache hit, replaying output [2m8a069fae0e7ccb4b[0m
+[35m@acme/c:foo: [0m
+[35m@acme/c:foo: [0m> @acme/c@1.0.0 foo /Users/txh/code/turbo-repro/pkgs/c
+[35m@acme/c:foo: [0m> echo "FOO @acme/c"
+[35m@acme/c:foo: [0m
+[35m@acme/c:foo: [0mFOO @acme/c

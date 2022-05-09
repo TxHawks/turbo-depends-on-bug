@@ -1,0 +1,6 @@
+[33m@acme/a:bar: [0mcache hit, replaying output [2m1f81cbf06d37cba9[0m
+[33m@acme/a:bar: [0m
+[33m@acme/a:bar: [0m> @acme/a@1.0.0 bar /Users/txh/code/turbo-repro/pkgs/a
+[33m@acme/a:bar: [0m> echo "BAR @acme/a"
+[33m@acme/a:bar: [0m
+[33m@acme/a:bar: [0mBAR @acme/a

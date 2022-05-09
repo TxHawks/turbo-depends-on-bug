@@ -1,0 +1,13 @@
+{
+  "name": "@acme/a",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo \"BUILD @acme/a\"",
+    "foo": "echo \"FOO @acme/a\"",
+    "bar": "echo \"BAR @acme/a\""
+  },
+  "dependencies": {
+    "@acme/b": "workspace:*"
+  }
+}

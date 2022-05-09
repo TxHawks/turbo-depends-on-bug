@@ -1,0 +1,19 @@
+{
+  "name": "@acme/turbo-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "pnpm@6.32.3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=16.13.2",
+    "pnpm": ">=6.32.3"
+  },
+  "author": "TxHawks",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.2.8"
+  }
+}

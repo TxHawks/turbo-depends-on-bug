@@ -1,0 +1,6 @@
+[35m@acme/c:build: [0mcache hit, replaying output [2mc3284fbcc2fbf121[0m
+[35m@acme/c:build: [0m
+[35m@acme/c:build: [0m> @acme/c@1.0.0 build /Users/txh/code/turbo-repro/pkgs/c
+[35m@acme/c:build: [0m> echo "BUILD @acme/c"
+[35m@acme/c:build: [0m
+[35m@acme/c:build: [0mBUILD @acme/c
